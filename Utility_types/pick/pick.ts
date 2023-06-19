@@ -1,0 +1,16 @@
+// interface Todo {
+//     title: string;
+//     description: string;
+//     completed: boolean;
+//   }
+   
+//   type TodoPreview = Pick<Todo, "title" | "completed">;
+   
+//   const todo: TodoPreview = {
+//     title: "Class room",
+//     completed: true,
+//   };
+   
+//   console.log(todo.completed)
+
+//   [to pick the any seperate property then do the property or key value set up]
